@@ -23,8 +23,8 @@ body {
 }
 .heart {
     position: relative;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     background-color: red;
     transform: rotate(-45deg);
     animation: heartbeat 1s linear infinite;
